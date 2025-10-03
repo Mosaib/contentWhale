@@ -3,7 +3,7 @@
 ## Links
 - **YouTube Demo:** [Watch here](https://youtu.be/0diMBjWT4FY)  
 - **Live Demo:** [View live site](https://content-whale-ten.vercel.app/)  
-- **Frontend Repository:** [Content Whale Frontend GitHub](https://github.com/Mosaib/content-whale)
+- **Frontend Repository:** [Frontend GitHub](https://github.com/Mosaib/content-whale)
 - 
 ## Prerequisites
 
