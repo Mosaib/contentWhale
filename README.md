@@ -20,13 +20,10 @@ Make sure the following are installed and running:
 cd contentWhale
 
 3. Start the Laravel server:
-```bash
 php artisan serve
 
 4. Run migrations to create database tables:
-```bash
 php artisan migrate
 
 5. Seed the database with sample data:
-```bash
 php artisan db:seed --class=TestimonialSeeder
